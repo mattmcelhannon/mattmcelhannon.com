@@ -1,25 +1,25 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Ezhil"
+title = "Matt McElhannon"
 theme = "ezhil"
 paginate = 5
 
-copyright = "© Copyright notice"
+copyright = "© 2020 Matt McElhannon"
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "ezhil-demo"
+googleAnalytics = ""
+disqusShortname = ""
 
 summaryLength = 20
 
 [params]
-	subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+	subtitle = "Nothing happens to me."
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
-	mode = "auto" # "dark", "auto", "light"
+	mode = "dark" # "dark", "auto", "light"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
@@ -45,9 +45,29 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
+name = "YouTube"
+icon = "youtube"
+url = "https://www.youtube.com/mattmcelhannon"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/mattmcelhannon/"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/mattmcelhannon"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/mattmcelhannon/"
+
+[[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/vividvilla/ezhil"
+url = "https://github.com/mattmcelhannon"
 
 [[params.social]]
 name = "RSS"
