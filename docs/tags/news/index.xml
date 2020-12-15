@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on Matt McElhannon</title>
+    <link>http://example.org/tags/news/</link>
+    <description>Recent content in news on Matt McElhannon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Matt McElhannon</copyright>
+    <lastBuildDate>Tue, 15 Dec 2020 13:33:00 -0800</lastBuildDate><atom:link href="http://example.org/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/posts/hello-world/</link>
+      <pubDate>Tue, 15 Dec 2020 13:33:00 -0800</pubDate>
+      
+      <guid>http://example.org/posts/hello-world/</guid>
+      <description>I have no idea what I&amp;rsquo;m doing. Here &amp;lsquo;goes anyway.</description>
+    </item>
+    
+  </channel>
+</rss>
