@@ -6,8 +6,6 @@ draft = false
 tags = ["News"]
 +++
 
-# Hello World
-
 I have no idea what I’m doing. But here we go anyway.
 
 Welcome to my blog. I hope you find it as helpful, infuriating, and therapeutic as I most certainly will. Just getting it started has proven to be a bear - more on that later - but it’s all meant to be a learning experience for me - more on that later.
