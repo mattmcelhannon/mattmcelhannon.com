@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>news on Matt McElhannon</title>
+    <title>News on Matt McElhannon</title>
     <link>https://mattmcelhannon.github.io/mattmcelhannon.com/tags/news/</link>
-    <description>Recent content in news on Matt McElhannon</description>
+    <description>Recent content in News on Matt McElhannon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Matt McElhannon</copyright>
@@ -14,7 +14,8 @@
       <pubDate>Tue, 15 Dec 2020 13:33:00 -0800</pubDate>
       
       <guid>https://mattmcelhannon.github.io/mattmcelhannon.com/posts/hello-world/</guid>
-      <description>I have no idea what I&amp;rsquo;m doing. Here &amp;lsquo;goes anyway.</description>
+      <description>Hello World I have no idea what I’m doing. But here we go anyway.
+Welcome to my blog. I hope you find it as helpful, infuriating, and therapeutic as I most certainly will.</description>
     </item>
     
   </channel>
